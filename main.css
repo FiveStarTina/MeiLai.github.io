@@ -1,15 +1,15 @@
 body {
-  padding-left: 11em;
+  padding-left: 5em;
   font-family: Georgia, "Times New Roman",
         Times, serif;
   color: purple;
-  background-color: #d8da3d }
+  background-color: #ffe6cc}
 ul.navbar {
   list-style-type: none;
   padding: 0;
   margin: 0;
   position: absolute;
-  top: 2em;
+  top: 5em;
   left: 1em;
   width: 9em }
 h1 {
